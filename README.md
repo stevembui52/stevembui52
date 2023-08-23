@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @stevembui52
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-stevembui52/stevembui52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋
+I am Stephen, software engineering student, IT officer at Good Faith Sacco Uplands Kenya
+🔭 I’m currently Learnig Software engineering at ALX
+💬 Ask me about Front-End Development and Product Design
+📫 How to reach me: @mbui__m in Twitter
+⚡ Fun fact: I'm not done with my personal webpage yet!
